@@ -1,0 +1,10 @@
+.id-element:hover {
+    transition:1s;    
+}
+
+.id-element:hover {
+    cursor: pointer;
+    border: 1px solid rgba(236, 116, 4, 0.836);
+    background-color: rgb(255, 145, 0);
+    padding: 2px
+}
